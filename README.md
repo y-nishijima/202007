@@ -6,3 +6,6 @@ to study github and vscode
 
 # 2020071401
 vscodeに拡張機能を追加してみた
+
+# 2020071402
+vscodeに拡張機能を追加してみた！
